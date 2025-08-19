@@ -18,6 +18,7 @@ To perform regular differncing,seasonal adjustment and log transformatio on covi
 6. Display the overall results.
 
 ### PROGRAM:
+```
 
 import pandas as pd
 
@@ -162,7 +163,7 @@ SEASONAL ADJUSTMENT:
 LOG TRANSFORMATION:
 ![Screenshot (556)](https://github.com/user-attachments/assets/bba1aae0-41fb-462a-9b53-42cb68479137)
 
-
+```
 
 ### RESULT:
 
